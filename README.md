@@ -41,6 +41,8 @@ images/anchorone.png
 express module
 ejs module
 
+package.json
+includes project depndncies 
 
 
 Setup:
